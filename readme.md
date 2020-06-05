@@ -1,3 +1,3 @@
 Html css js
 
-![Screenshot 1](readme__pic/ef6871739208232a6a2265b832d7d19c.png)
+![Screenshot 1](readme__pic/71c80b17ad42c22bb8891e1814598985.png)
